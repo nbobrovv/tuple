@@ -1,2 +1,1 @@
-# laba7
-Laba number seven
+Лабораторная работа № 7.
